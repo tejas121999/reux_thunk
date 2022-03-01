@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "tejas telkar",
+      "address": "dombivali",
+      "email": "tejas@gmail.com",
+      "contact": "7896541241",
+      "id": 2
+    },
+    {
+      "name": "manoj",
+      "address": "dombivali",
+      "email": "manoj@gmail.com",
+      "contact": "7854123690",
+      "id": 3
+    },
+    {
+      "name": "deepak",
+      "address": "dombivali",
+      "email": "deepak@gmail.com",
+      "contact": "8935231470",
+      "id": 5
+    },
+    {
+      "name": "gauri_nimap",
+      "address": "dombivali",
+      "email": "gauri@gmail.com",
+      "contact": "8745213690",
+      "id": 6
+    }
+  ]
+}
